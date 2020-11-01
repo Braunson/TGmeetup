@@ -1,0 +1,26 @@
+{
+    "name": "Taichung Frontend",
+    "title": "Taichung Frontend",
+    "description": "凝聚台中與中部地區的網頁設計/開發人員，提供交流與學習的園地。無論是前端設計師或是後台的開發人員，或者是對網站設計有興趣的朋友都很歡迎加入。",
+    "category": "community",
+    "countrycode": "tw",
+    "city": "Taichung",
+    "keywords": [
+      "design",
+      "developers",
+      "frontend",
+      "backend"
+    ],
+    "registration": {
+      "type": "kktix",
+      "url": "https://taichung-frontend.kktix.cc/"
+    },
+    "social_media": [
+      {
+        "type": "facebook",
+        "urls": [
+          "https://www.facebook.com/groups/taichung.f2e/"
+        ]
+      }
+    ]
+  }
