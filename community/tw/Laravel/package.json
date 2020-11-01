@@ -1,0 +1,26 @@
+{
+    "name": "Laravel",
+    "title": "Laravel",
+    "description": "這裡是 Laravel 台灣的 Facebook 社團，歡迎對 Laravel PHP Framework 有興趣的朋友加入討論！任何關於 Laravel 的新聞、議題、疑問、分享都歡迎貼在社團內喔！",
+    "category": "community",
+    "countrycode": "tw",
+    "city": "Taipei",
+    "keywords": [
+      "laravel",
+      "php",
+      "framework"
+    ],
+    "registration": {
+      "type": "kktix",
+      "url": "https://laraveltw.kktix.cc/"
+    },
+    "social_media": [
+      {
+        "type": "facebook",
+        "urls": [
+          "https://www.facebook.com/groups/laravel.tw/"
+        ]
+      }
+    ],
+    "logo_url": "https://t.kfs.io/upload_images/36029/gravatar-new_promote.png"
+  }
